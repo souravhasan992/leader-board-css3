@@ -15,6 +15,9 @@ main{
     width: 870px;
     padding: 30px;
 }
+hr{
+    border: 1px solid #D1D1D1;
+}
 /* top players style  */
 .section-title{
     color: #562eff;
